@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Inheritance/|Thread/|Url Connetion/|Command/|copy/|Reflection/|zipping/" kind="src" path=""/>
+	<classpathentry kind="src" path="Command"/>
+	<classpathentry kind="src" path="copy"/>
+	<classpathentry kind="src" path="Inheritance"/>
+	<classpathentry kind="src" path="Reflection"/>
+	<classpathentry kind="src" path="Thread"/>
+	<classpathentry kind="src" path="Url Connetion"/>
+	<classpathentry kind="src" path="zipping"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
